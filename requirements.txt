@@ -1,0 +1,13 @@
+torch==2.9.1
+torchvision==0.24.1
+torch-geometric==2.6.1
+numpy==1.26.0
+pandas==2.2.3
+scipy==1.14.1
+scikit-learn==1.6.1
+h5py==3.12.1
+lifelines==0.30.0
+scikit-survival==0.24.1
+matplotlib==3.10.0
+einops==0.8.1
+nystrom-attention==0.0.14
