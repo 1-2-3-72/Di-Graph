@@ -2,7 +2,9 @@
 
 **Distilling Hierarchical Reasoning from Pathogenomic Graphs for Survival Analysis**
 
-*Xinyu Liu, Leiye Liu, Miao Zhang, Yongri Piao, Weibing Sun, Feng Tian, Huan Bi, and Huchuan Lu.*
+*Leiye Liu<sup>†</sup>, Xinyu Liu<sup>†</sup>, Miao Zhang, Yongri Piao<sup>✉</sup>, Weibing Sun, Feng Tian, Huan Bi, and Huchuan Lu.*
+
+<sup>†</sup> Leiye Liu and Xinyu Liu contributed equally as co-first authors. <sup>✉</sup> Corresponding author: Yongri Piao ([yrpiao@dlut.edu.cn](mailto:yrpiao@dlut.edu.cn)).
 
 **Summary:** Di-Graph integrates pathology and genomic features through a structured heterogeneous graph and transfers the teacher's knowledge to a pathology-only student through multi-level graph knowledge distillation.
 
